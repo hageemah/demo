@@ -1,4 +1,9 @@
 The test is executed as a JUnit test from FillOutFormTest.java
+This is a "Happy Path" end to end test. At a high level, this test will:
+A. Login
+B. Create a new Sample Work Order
+C. Fill out and sign the form.
+D. Save and Download the form.
 
 The setup used was the following:
 - Windows 10 64-bit OS
